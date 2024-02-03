@@ -1,0 +1,32 @@
+#navbarNavAltMarkup{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    color: rgb(20, 20, 108);
+}
+
+.cardX{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#gonow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+    
+    
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
